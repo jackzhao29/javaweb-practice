@@ -27,7 +27,7 @@ import kafka.javaapi.consumer.ConsumerConnector;
 
 /**
  * 类UserKafkaHandler.java的实现描述：TODO 类实现描述
- * @author zhaofei
+ * @author coldface
  * @date   2016年5月30日下午6:11:25
  */
 @Component

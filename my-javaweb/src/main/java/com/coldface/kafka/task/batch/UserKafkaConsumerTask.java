@@ -4,7 +4,6 @@ import java.util.concurrent.BlockingQueue;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.springframework.stereotype.Component;
 
 import com.alibaba.fastjson.JSON;
 import com.coldface.entity.UserBo;
